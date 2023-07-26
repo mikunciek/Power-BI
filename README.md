@@ -1,2 +1,2 @@
 # Power-BI
-Zadania z PowerBI z MicrosoftLearning
+Excercises with PowerBI - MicrosoftLearn
