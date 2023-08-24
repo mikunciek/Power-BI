@@ -1,2 +1,7 @@
 # Power-BI
-Excercises with PowerBI - MicrosoftLearn
+Exercises with PowerBI 
+
+Sources:
+MicrosoftLearn
+LinkedIn Learning
+Online
