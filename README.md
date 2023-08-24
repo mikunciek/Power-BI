@@ -2,6 +2,9 @@
 Exercises with PowerBI 
 
 Sources:
-MicrosoftLearn
-LinkedIn Learning
-Online
+
+-> MicrosoftLearn
+
+->LinkedIn Learning
+
+->Online
